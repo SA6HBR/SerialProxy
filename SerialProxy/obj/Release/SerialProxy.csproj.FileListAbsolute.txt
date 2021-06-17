@@ -1,0 +1,8 @@
+C:\___GitHub\SerialProxy\SerialProxy\bin\Release\SerialProxy.exe
+C:\___GitHub\SerialProxy\SerialProxy\bin\Release\SerialProxy.pdb
+C:\___GitHub\SerialProxy\SerialProxy\obj\Release\SerialProxy.Form1.resources
+C:\___GitHub\SerialProxy\SerialProxy\obj\Release\SerialProxy.Properties.Resources.resources
+C:\___GitHub\SerialProxy\SerialProxy\obj\Release\SerialProxy.csproj.GenerateResource.cache
+C:\___GitHub\SerialProxy\SerialProxy\obj\Release\SerialProxy.csproj.CoreCompileInputs.cache
+C:\___GitHub\SerialProxy\SerialProxy\obj\Release\SerialProxy.exe
+C:\___GitHub\SerialProxy\SerialProxy\obj\Release\SerialProxy.pdb
