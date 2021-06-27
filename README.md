@@ -9,7 +9,6 @@ Simple program for displaying serial communication
 ## Useful Links
 
 * [Null-modem emulator (com0com) ](https://sourceforge.net/projects/com0com/)
-* 
 * [MiKTeX is a modern TeX distribution for Windows](https://miktex.org/)
 
 ## License
