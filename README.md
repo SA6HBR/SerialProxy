@@ -8,7 +8,8 @@ Simple program for displaying serial communication
 
 ## Useful Links
 
-* [Null-modem emulator (com0com) ](https://sourceforge.net/projects/com0com/)
+* [Manual](https://github.com/SA6HBR/SerialProxy/blob/main/doc/SerialProxyManual.pdf)
+* [Null-modem emulator (com0com)](https://sourceforge.net/projects/com0com/)
 * [MiKTeX is a modern TeX distribution for Windows](https://miktex.org/)
 
 ## License
