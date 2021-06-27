@@ -165,8 +165,8 @@ namespace SerialProxy
                 return;
             }
 
-            textBox1.Text = textBox1.Text.Insert(0, DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss") + " - " + program + " : " + text + "\r\n");
-            DebugLogRemoveLines(500);
+            textBox1.Text = textBox1.Text.Insert(0, DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss") + " - " + program.PadRight(8,' ') + ": " + text + "\r\n");
+            DebugLogRemoveLines(50);
         }
         private void DebugLogRemoveLines(int rows)
         {
@@ -751,7 +751,7 @@ namespace SerialProxy
                     SerialPort2.Write(sp.Data_sp1, 0, sp.Data_sp1.Length);
                 }
                 
-                LogText = "DumpData: " + BitConverter.ToString(sp.Data_sp1, 0, sp.Data_sp1.Length).Replace("-", " ");
+                LogText = BitConverter.ToString(sp.Data_sp1, 0, sp.Data_sp1.Length).Replace("-", " ");
 
             }
 
@@ -779,7 +779,7 @@ namespace SerialProxy
                     SerialPort1.Write(sp.Data_sp2, 0, sp.Data_sp2.Length);
                 }
                 
-                LogText = "DumpData: " + BitConverter.ToString(sp.Data_sp2, 0, sp.Data_sp2.Length).Replace("-", " ");
+                LogText = BitConverter.ToString(sp.Data_sp2, 0, sp.Data_sp2.Length).Replace("-", " ");
 
             }
 
