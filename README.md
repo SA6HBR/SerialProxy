@@ -8,7 +8,7 @@ Simple program for displaying serial communication
 
 ## Useful Links
 
-* [Download latest SerialProxy.exe](https://github.com/SA6HBR/SerialProxy/releases/download/0.01/SerialProxy.exe)
+* [Download latest (0.01) SerialProxy.exe](https://github.com/SA6HBR/SerialProxy/releases/download/0.01/SerialProxy.exe)
 * [Manual](https://github.com/SA6HBR/SerialProxy/blob/main/doc/SerialProxyManual.pdf)
 * [Null-modem emulator (com0com)](https://sourceforge.net/projects/com0com/)
 * [MiKTeX](https://miktex.org/)
